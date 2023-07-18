@@ -321,6 +321,11 @@ div.mais-lida-noticia-single > img{
   }
 
   @media screen and (max-width: 768px){
+   div.carousel-caption p{
+    display: none;
+   }
+
+
       .noticia-single{
           width:100%;
           margin-bottom: 20px;
